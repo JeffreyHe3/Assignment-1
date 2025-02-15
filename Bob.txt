@@ -3,7 +3,12 @@ Bob got a text from his friend Jimmy to meet him at McDonalds.
 Bob is bored, so he heads to the McDonalds to meet with Jimmy.
 Continues in "Jimmy.txt"
 
-"Hey there Jimmy, so why are we here?"
+"Hey there Jimmy, sure"
+Bob buy two Big Mac combos and they finish eating.
+"So, why are we here? You got what I asked for?"
 Continues in "Jimmy.txt"
 
-"You seriously, but out in public?"
+"You seriously, but but in public?"
+Continues in "Jimmy.txt"
+
+Bob looks into the bag, smiles, and goes back home.

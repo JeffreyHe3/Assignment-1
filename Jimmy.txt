@@ -3,3 +3,8 @@ Continues in "Bob.txt"
 
 "I got the goods Bob I got them right here"
 Continues in "Bob.txt"
+
+"This was the only time I had to bring them here."
+"But yeah I got them here, the fireworks you asked for I got from my uncle's garage that you can use for the New Years Party tomorrow, just like you asked since you can't buy them yourself."
+"Here I bought them in a bag, you can see the box inside. Take it and thanks for the food"
+Continues in "Bob.txt"
