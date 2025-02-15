@@ -1,3 +1,6 @@
-Hi my name is Bob!
+This is Bob.
 Bob got a text from his friend Jimmy to meet him at McDonalds.
 Bob is bored, so he heads to the McDonalds to meet with Jimmy.
+
+Continue in "Jimmy.txt"
+Hey there Jim, so why are we here?
