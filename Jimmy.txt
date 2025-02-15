@@ -1,2 +1,5 @@
 "Sup Bob appreciate you being here."
 Continues in "Bob.txt"
+
+"I got the goods Bob I got them right here"
+Continues in "Bob.txt"

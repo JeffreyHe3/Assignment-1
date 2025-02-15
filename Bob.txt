@@ -1,6 +1,9 @@
 This is Bob.
 Bob got a text from his friend Jimmy to meet him at McDonalds.
 Bob is bored, so he heads to the McDonalds to meet with Jimmy.
-
 Continues in "Jimmy.txt"
+
 "Hey there Jimmy, so why are we here?"
+Continues in "Jimmy.txt"
+
+"You seriously, but out in public?"
