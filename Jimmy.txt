@@ -1,1 +1,2 @@
-    
+"Sup Bob appreciate you being here."
+Continues in "Bob.txt"
