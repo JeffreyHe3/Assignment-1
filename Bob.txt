@@ -12,3 +12,5 @@ Continues in "Jimmy.txt"
 Continues in "Jimmy.txt"
 
 Bob looks into the bag, smiles, and goes back home.
+
+At home, Bob opens the box.
