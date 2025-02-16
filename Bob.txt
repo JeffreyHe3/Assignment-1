@@ -1,6 +1,6 @@
 This is Bob.
-Bob got a text from his friend Jimmy to meet him at McDonalds.
-Bob is bored, so he heads to the McDonalds to meet with Jimmy.
+Bob got a text from one of his classmates's friend to meet him at McDonalds.
+Bob is bored, so he heads to the McDonalds to meet with him.
 Continues in "Jimmy.txt"
 
 "Hey there Jimmy, sure"
@@ -15,3 +15,4 @@ Bob looks into the bag, smiles, and goes back home.
 
 At home, Bob opens the box.
 "I got the fireworks and now I can flex them on the neighbours."
+Inside, Bob frowns and finds a note that says "Thanks for the food."
